@@ -42,9 +42,6 @@ decorator==5.1.1
 defusedxml==0.7.1
 ecos==2.0.12
 entrypoints==0.4
--e git+ssh://git@ssh.dev.azure.com/v3/LynxAssetManagement/Lynx%20Equities/EQ-Common@119f1b6873995901c542ef65abb1f7a9dae2df5c#egg=EQ_Common
--e git+ssh://git@ssh.dev.azure.com/v3/LynxAssetManagement/Lynx%20Equities/EQ-Dev@a5496ce71a9c302549489ee70cda24272bd8490c#egg=EQ_Dev
--e git+ssh://git@ssh.dev.azure.com/v3/LynxAssetManagement/Lynx%20Equities/EQ-Infra@f53053f0aaadc2c9879623d2f1ecd903f4916592#egg=EQ_Infra
 exceptiongroup==1.2.0
 executing==2.0.1
 fastjsonschema==2.19.1
