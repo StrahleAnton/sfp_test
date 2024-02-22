@@ -15,7 +15,7 @@
   },
   "files": {
     "requirements.txt": {
-      "checksum": "61d849f1ef4871f7a7aa3342c61705cc"
+      "checksum": "dc8fc5495b21c61711ae6ffd895951fc"
     },
     "app.py": {
       "checksum": "fcdf9a294904b5e7cfd637b0e58e2412"
